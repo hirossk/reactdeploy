@@ -82,3 +82,4 @@ export const App = () => {
     //     <Modal shop={selectedShop} onPopdown={popdownShop} />
     // )}
 };
+
